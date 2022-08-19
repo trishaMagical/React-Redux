@@ -43,6 +43,7 @@ const dispatch = useDispatch();
             onChange={(e)=> setPassword(e.target.value)}
             />
             <button type='submit' class="submit_btn" >Submit</button>
+           
         </form>
       
     </div>
